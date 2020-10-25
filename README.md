@@ -7,4 +7,4 @@
 4) Terminal "yarn add styled-components"
 5) Terminal "yarn add @types/styled-components -D"
 6) Terminal "yarn add leaflet react-leaflet"
-7) 
+7) Terminal "yarn add @types/react-leaflet -D"
