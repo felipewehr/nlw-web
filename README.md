@@ -8,3 +8,5 @@
 5) Terminal "yarn add @types/styled-components -D"
 6) Terminal "yarn add leaflet react-leaflet"
 7) Terminal "yarn add @types/react-leaflet -D"
+
+## tempo de aula 3 -> 01:01:30
